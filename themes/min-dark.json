@@ -1,5 +1,5 @@
 {
-	"name": "Min Dark",
+	"name": "CE Min Dark",
 	"type": "dark",
 	"colors": {
     "editorIndentGuide.activeBackground": "#383838",
@@ -53,6 +53,7 @@
     "tab.border": "#1A1A1A",
     "tab.inactiveBackground": "#1A1A1A",
     "tab.inactiveForeground": "#727272",
+	"tab.activeBackground": "#444444",
     "textLink.foreground": "#CCC",
     "textLink.activeForeground": "#fafafa",
     "titleBar.activeBackground": "#1A1A1A",

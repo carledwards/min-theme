@@ -1,12 +1,12 @@
 {
-    "name": "min-theme",
-    "displayName": "Min Theme",
+    "name": "ce-min-theme",
+    "displayName": "CE Min Theme",
     "description": "A minimal theme that comes in dark and light.",
-    "version": "1.5.0",
-    "publisher": "miguelsolorio",
+    "version": "1.0.0",
+    "publisher": "carledwards",
     "repository": {
         "type": "git",
-        "url": "https://github.com/misolori/min-theme.git"
+        "url": "https://github.com/carledwards/min-theme.git"
     },
     "engines": {
         "vscode": "^1.25.0"
@@ -18,12 +18,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Min Dark",
+                "label": "CE Min Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/min-dark.json"
             },
             {
-                "label": "Min Light",
+                "label": "CE Min Light",
                 "uiTheme": "vs",
                 "path": "./themes/min-light.json"
             }
